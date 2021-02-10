@@ -74,7 +74,7 @@ $ py manage.py createsuperuser
 $ py manage.py runserver
 </pre>
 
-<h2>Repogitory Clone</h2>
+<h2>License</h2>
 <ul>
   <li>Copyright 2021 JeonHyuk
 </ul>
